@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman4uas&label=Profile%20views&color=0e75b6&style=flat" alt="aman4uas" /> </p>
 
-- 🔭 I’m currently working on [Video Call Web Application](https://github.com/aman4uas/video-chat-app)
-
-- 🌱 I’m currently learning **WebRTC and Socket.io**
+- 🎓 I’m a 3rd-year Computer Science Student
+- 🚀 Full-stack Developer | 🌐 Web Enthusiast
+- 📊 Data Structures and Algorithms Enthusiast
 
 <h3 align="left">Connect with me:</h3>
 
