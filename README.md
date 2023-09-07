@@ -44,13 +44,13 @@
 </p>
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aman4uas&show_icons=true&locale=en&layout=compact" alt="aman4uas" width="48%"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aman4uas&show_icons=true&locale=en&layout=compact" alt="aman4uas" width="48%" style="min-width: 310px;"/>
 </p>
 
 <p align="right">
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aman4uas&show_icons=true&locale=en" alt="aman4uas" width="48%"/>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aman4uas&show_icons=true&locale=en" alt="aman4uas" width="48%" style="min-width: 310px;" />
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aman4uas&" alt="aman4uas" width="65%" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aman4uas&" alt="aman4uas" width="65%" style="min-width: 310px;" />
 </p>
