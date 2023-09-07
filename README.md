@@ -51,7 +51,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aman4uas&show_icons=true&locale=en&layout=compact" alt="aman4uas" />
 </p>
 
-<p>
+<p align="right">
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aman4uas&show_icons=true&locale=en" alt="aman4uas" />
 </p>
 
