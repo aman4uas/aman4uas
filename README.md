@@ -7,7 +7,7 @@
 
 - 🎓 I’m a 3rd-year Computer Science Student
 - 🚀 Full-stack Developer | 🌐 Web Enthusiast
-- 📊 Data Structures and Algorithms Enthusiast
+- 📊 Data Structures and Algorithms
 
 <h3 align="left">Connect with me:</h3>
 
