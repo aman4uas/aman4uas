@@ -55,6 +55,6 @@
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aman4uas&show_icons=true&locale=en" alt="aman4uas" width="48%"/>
 </p>
 
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aman4uas&" alt="aman4uas" width="70%" />
+<p align="center" style="margin-top: 10px;">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aman4uas&" alt="aman4uas" width="65%" />
 </p>
