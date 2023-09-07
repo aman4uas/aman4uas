@@ -52,6 +52,6 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aman4uas&" alt="aman4uas" width="65%" style="min-width: 310px;" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aman4uas&" alt="aman4uas" style="width: 65%; min-width: 310px;" />
 </p>
 
