@@ -44,11 +44,11 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aman4uas&show_icons=true&locale=en&layout=compact" alt="aman4uas" width="46%" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aman4uas&show_icons=true&locale=en&layout=compact" alt="aman4uas" width="47%" />
 </p>
 
 <p align="right">
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aman4uas&show_icons=true&locale=en" alt="aman4uas" width="46%" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aman4uas&show_icons=true&locale=en" alt="aman4uas" width="47%" />
 </p>
 
 <p align="center">
