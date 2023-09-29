@@ -8,7 +8,7 @@
 - 🎓 I’m a 3rd-year Computer Science Student
 - 🚀 Full-stack Developer | 🌐 Web Enthusiast
 - 📊 Data Structures and Algorithms
-- 👨‍💻 All of my projects are available at [Portfolio Link](https://portfolio-aman-singh.netlify.app)
+- 👨‍💻 Check my Portfolio - [Click Here](https://portfolio-aman-singh.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 
