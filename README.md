@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman4uas&label=Profile%20views&color=0e75b6&style=flat" alt="aman4uas" /> </p>
 
-- 🎓 I’m a 3rd-year Computer Science Student
+- 🎓 I’m a 4th-year Computer Science Student
 - 🚀 Full-stack Developer | 🌐 Web Enthusiast
 - 📊 Data Structures and Algorithms
 - 👨‍💻 Check my Portfolio - [Click Here](https://portfolio-aman-singh.netlify.app)
